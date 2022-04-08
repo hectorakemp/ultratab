@@ -5,4 +5,4 @@ UltraTab will hopefully be an application for people who run a lot of tabs, exte
 
 The idea came from speaking to a few PhD candidates, and thinking about their habits of keeping tabs open for once. 
 
-I'm hoping it will have Zotero integration, as well as filtering and sorting on website, date, Author, etc.  
+I'm hoping it will have Zotero integration, as well as filtering and sorting on website, date, author, etc.  
